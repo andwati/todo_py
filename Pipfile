@@ -7,6 +7,7 @@ name = "pypi"
 typer = "*"
 colorama = "*"
 shellingham = "*"
+pytest = "*"
 
 [dev-packages]
 
